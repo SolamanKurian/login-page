@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(133, 145, 144);
+}
+
+.center-div{
+    padding-top: 10%;
+    
+}
+
+.btn.btn-success{
+    margin-top: 20px;
+    padding: .4em 2em;
+}
+
+form{
+    padding: 0 3em;
+}
+
+#login .title > span{
+    font-size: .8em;
+}
+.x{
+    color: black;
+    text-decoration: none;
+}
+.xx{
+    background-color: rgb(4, 64, 117);
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+#bx{
+    background-color: rgb(4, 77, 49);
+}
+.hx{
+    color: white;
+}
+#hbx{
+    background-color:rgb(4, 77, 49) ;
+}
+#dngr{
+    color: rgb(206, 71, 71);
+}
